@@ -35,7 +35,6 @@ subplot(2,2,3);
 plot(t2,y2);
 hold on;
 stem(t2,y2,'.');
-6
 xlabel("Time");
 ylabel("Amplitude");
 title("Nyquist sampling");
