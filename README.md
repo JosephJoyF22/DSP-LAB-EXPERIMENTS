@@ -1,6 +1,6 @@
 # DIGITAL SIGNAL PROCESSING LAB EXPERIMENTS
 This Repository contains practical experiments in Digital Signal Processing Lab
-## Platform used-
+## Platform used -
 MATLAB
 ## Team Members-
  Adhya R
