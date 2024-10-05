@@ -10,4 +10,4 @@ Fundamental signals in Digital Signal Processing (DSP) are crucial for analyzing
 7.	Unipolar Pulse: A rectangular signal that is positive for a specific period and zero elsewhere.
 8.	Bipolar Pulse: Rectangular signal that alternates between positive and negative values.
 9.	Triangular Wave: A periodic signal that rises and falls linearly, forming a triangle shape.
-Observation:
+
