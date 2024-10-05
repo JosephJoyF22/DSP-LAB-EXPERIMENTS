@@ -5,7 +5,7 @@ MATLAB
 ## Team Members-
 Adhya R
 Joseph Joy
-##Table of Contents
+##Table of Contents-
 1.Generation of Basic Test Signals
 2.Verification of Sampling Theorem
 3.Linear Convolution
