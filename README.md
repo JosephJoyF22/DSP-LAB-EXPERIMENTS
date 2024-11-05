@@ -12,3 +12,5 @@ MATLAB
 #### 4.Circular Convolution
 #### 5.Linear Convolution using Circular Convolution and vice versa
 #### 6.Discrete Fourier Transform and Inverse Discrete Fourier Transform
+#### 7.Properties of DFT
+#### 8.Overlap Add and Overlap Save method
