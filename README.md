@@ -14,3 +14,4 @@ MATLAB
 #### 6.Discrete Fourier Transform and Inverse Discrete Fourier Transform
 #### 7.Properties of DFT
 #### 8.Linear convolution using Overlap Add and Save methods
+#### 9.FIR filter design using window methods
