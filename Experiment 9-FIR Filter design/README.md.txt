@@ -1,4 +1,4 @@
-### FIR Filter Design Using the Window Method
+FIR Filter Design Using the Window Method
 
 The window method is a widely used approach in FIR filter design, valued for its simplicity and effectiveness in shaping the frequency response. In this method, the desired frequency response of an ideal filter—such as low-pass, high-pass, band-pass, or band-stop—is defined first. The ideal filter's impulse response, however, is typically infinite and non-causal, which is impractical for real-world applications. To address this, the impulse response is truncated and modified by applying a finite-duration window function, resulting in an FIR filter with manageable length.
 
