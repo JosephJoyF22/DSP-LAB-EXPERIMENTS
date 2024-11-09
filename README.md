@@ -18,3 +18,5 @@ MATLAB
 #### 10.Familiarization of DSP Hardware
 #### 11.Generation of Sine Wave using DSP Kit
 #### 12.Linear Convolution using DSP Kit
+#### 13.Fair Record
+#### 14.README file
