@@ -14,4 +14,7 @@ MATLAB
 #### 6.Discrete Fourier Transform and Inverse Discrete Fourier Transform
 #### 7.Properties of DFT
 #### 8.Linear convolution using Overlap Add and Save methods
-#### 9.FIR filter design using window methods
+#### 9.Implementation of FIR Filter
+#### 10.Familiarization of DSP Hardware
+#### 11.Generation of Sine Wave using DSP Kit
+#### 12.Linear Convolution using DSP Kit
